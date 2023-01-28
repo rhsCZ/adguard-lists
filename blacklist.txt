@@ -1,5 +1,4 @@
 cnews.cz
-www.bing.com
 ||cnews\.cz^
 safebrowsing.googleapis.com
 ||novinkoov\.cz^
