@@ -17,3 +17,4 @@ a.slunecnice.cz
 ||novinkoon2.eu^
 ||novinkov.cz^
 ||pilsfree.tv^$dnstype=aaaa
+||use-application-dns.net^
