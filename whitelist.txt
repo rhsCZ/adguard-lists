@@ -85,3 +85,4 @@ lidl.media01.eu
 nahnoji.cz
 www.cqcounter.biz
 cqcounter.biz
+test.com
