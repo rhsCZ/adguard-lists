@@ -1,6 +1,7 @@
 msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
+fundingchoices.google.com
 clients4.google.com
 clients2.google.com
 s.youtube.com
