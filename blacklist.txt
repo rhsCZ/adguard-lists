@@ -21,3 +21,4 @@ a.slunecnice.cz
 router.rhscz.cz$dnstype=a
 rhscz-pc.rhscz.eu$dnstype=a
 barunka-pc.rhscz.cz$dnstype=a
+/.*badoo.*/$dnstype=aaaa
