@@ -89,3 +89,5 @@ www.cqcounter.biz
 cqcounter.biz
 piwik.vpsfree.cz
 click.discord.com
+thepiratebay.org
+www.thepiratebay.org
