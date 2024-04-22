@@ -91,3 +91,4 @@ piwik.vpsfree.cz
 click.discord.com
 thepiratebay.org
 www.thepiratebay.org
+/.*\.toplist.cz/
