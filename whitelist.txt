@@ -92,3 +92,4 @@ click.discord.com
 thepiratebay.org
 www.thepiratebay.org
 ||toplist\.cz^
+||hiiiigg\.cz^
