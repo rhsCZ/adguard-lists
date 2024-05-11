@@ -93,3 +93,4 @@ thepiratebay.org
 www.thepiratebay.org
 ||toplist.cz^
 ||hiiiigg.cz^
+cdn.intergient.com
