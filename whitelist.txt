@@ -95,3 +95,4 @@ www.thepiratebay.org
 ||hiiiigg.cz^
 cdn.intergient.com
 cdn.intergi.com
+s.click.aliexpress.com
