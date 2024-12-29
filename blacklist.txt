@@ -19,4 +19,5 @@
 ||use-application-dns.net^
 ||badoo.*^$dnstype=aaaa
 ||dnsscan.shadowserver.org^$dnsrewrite=REFUSED
-||max.com^
+||max.com^$dnstype=aaaa
+||discomax.com^$dnstype=aaaa
