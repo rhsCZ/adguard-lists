@@ -94,6 +94,7 @@ www.thepiratebay.org
 ||toplist.cz^
 ||hiiiigg.cz^
 cdn.intergient.com
+go.microsoft.com
 cdn.intergi.com
 s.click.aliexpress.com
 userreporting.cloud.unity3d.com
