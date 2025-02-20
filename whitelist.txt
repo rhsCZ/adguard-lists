@@ -99,3 +99,4 @@ cdn.intergi.com
 s.click.aliexpress.com
 userreporting.cloud.unity3d.com
 sway.cloud.microsoft
+t.co
