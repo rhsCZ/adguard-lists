@@ -101,3 +101,4 @@ userreporting.cloud.unity3d.com
 sway.cloud.microsoft
 t.co
 www2.quectel.com
+go.pardot.com
