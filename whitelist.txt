@@ -105,3 +105,4 @@ go.pardot.com
 adashx4ae.ut.taobao.com
 mobile.pipe.aria.microsoft.com
 ||asnapieu.com^
+eu-mobile.events.data.microsoft.com
