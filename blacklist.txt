@@ -20,6 +20,7 @@
 ||badoo.*^$dnstype=aaaa
 ||dnsscan.shadowserver.org^$dnsrewrite=REFUSED
 ||max.com^$dnstype=aaaa
+||hbomax.com^$dnstype=aaaa
 ||discomax.com^$dnstype=aaaa
 ||lverification.com
 ||joinlobby.pro
